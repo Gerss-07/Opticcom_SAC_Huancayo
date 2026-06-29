@@ -374,8 +374,8 @@
 }
 .producto-info p,
 .filtro-btn span {
-    color: #555555 !important;
-    opacity: 1 !important;
+    color: #555555;
+    opacity: 1;
 }
 .btn-carrito:focus-visible,
 .filtro-btn:focus-visible,
