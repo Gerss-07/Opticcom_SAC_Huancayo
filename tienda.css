@@ -372,3 +372,14 @@
         order: 1;
     }
 }
+.producto-info p,
+.filtro-btn span {
+    color: #555555 !important;
+    opacity: 1 !important;
+}
+.btn-carrito:focus-visible,
+.filtro-btn:focus-visible,
+a:focus-visible {
+    outline: 3px solid #005fcc;
+    outline-offset: 3px;
+}
